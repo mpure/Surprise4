@@ -1,4 +1,4 @@
-/* @pjs preload="mario.jpg"; */
+/* @pjs preload="dogedoge.jpg"; */
 
 PImage img;
 
